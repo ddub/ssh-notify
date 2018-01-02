@@ -1,0 +1,2 @@
+session optional pam_exec.so /opt/ssh-notify/notify /opt/ssh-notify/config.yaml
+
